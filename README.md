@@ -1,4 +1,4 @@
+
+<center>
 ![Header](./background.png)
-
-
-Fadhil Swarigading
+</center>
