@@ -1,6 +1,6 @@
 <h1 align="center">Fadhil Swarigading</h1>
 <h3 align="center">Junior Web Developer</h3>
-<img align="center" alt="meme" width="500" src="https://c.tenor.com/XOo4Im6Fah4AAAAd/tenor.gif"
+<img align="center" alt="meme" width="500" src="https://c.tenor.com/XOo4Im6Fah4AAAAd/tenor.gif">
 
 Apprenticeship at [PT CMNP](https://id.citramarga.com//)
 
