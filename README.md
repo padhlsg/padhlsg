@@ -1,13 +1,27 @@
-<h1 align="center">Fadhil Swarigading</h1>
-<h3 align="center">Junior Web Developer</h3>
-<img align="right" alt="meme" width="600" height="300" src="https://media.tenor.com/Azkco9iXdL0AAAAM/fight-club.gif">
+  <h1 align="center">Fadhil Swarigading</h1>
+  <h3 align="center">Junior Web Developer</h3>
 
-Apprenticeship at [PT CMNP](https://id.citramarga.com//)
+  <div align="center">
+    <img alt="meme" width="600" height="300" src="https://media.tenor.com/Azkco9iXdL0AAAAM/fight-club.gif">
+  </div>
 
-<h3 align="left">Technologies:</h3>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/id/a/a9/MySQL.png" alt="mysql" width="40" height="40"/> </a>
+  <br>
 
+  <div align="center">
+    <p>Apprenticeship at <a href="https://id.citramarga.com//" target="_blank" rel="noreferrer">PT CMNP</a></p>
+  </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=padhlsg&show_icons=true&theme=radical)
+  <h3 align="center">Technologies:</h3>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,php,mysql" />
+  </a>
+</p>
+    
+  </div>
+
+  <br>
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=padhlsg&show_icons=true&theme=radical" alt="GitHub Stats">
+  </div>
