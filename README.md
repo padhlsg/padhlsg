@@ -1,12 +1,6 @@
   <h1 align="center">Fadhil Swarigading</h1>
   <h3 align="center">Junior Web Developer</h3>
-
-  <div align="center">
-    <img alt="meme" width="600" height="300" src="https://media.tenor.com/Azkco9iXdL0AAAAM/fight-club.gif">
-  </div>
-
   <br>
-
   <div align="center">
     <p>Apprenticeship at <a href="https://id.citramarga.com//" target="_blank" rel="noreferrer">PT CMNP</a></p>
   </div>
