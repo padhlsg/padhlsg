@@ -17,7 +17,6 @@
   <br><br>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=padhlsg&layout=compact" alt="Top Languages">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=padhlsg&show_icons=true&theme=radical" alt="GitHub Stats">
   </div>
 
