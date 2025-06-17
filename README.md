@@ -11,7 +11,7 @@
 
   <h3>Technologies:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,php,mysql" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,figma,php,mysql,java" alt="Tech Stack Icons" />
   </a>
 
   <br><br>
