@@ -1,4 +1,4 @@
-<div align="center">
+<div align="display: flex; align-items: center; justify-content: center; gap: 10px;">
 
   <h1>Fadhil Swarigading</h1>
   <h3>Junior Web Developer</h3>
@@ -15,9 +15,5 @@
   </a>
 
   <br><br>
-
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=padhlsg&show_icons=true&theme=radical" alt="GitHub Stats">
-  </div>
 
 </div>
