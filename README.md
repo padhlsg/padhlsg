@@ -6,7 +6,7 @@
 
 <div align="left">
 
-  <h1>Fadhil Swarigading</h1>
+  <h3>Fadhil Swarigading</h3>
   <h3>Junior Web Developer</h3>
 
   <p>Apprenticeship at 
