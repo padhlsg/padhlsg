@@ -14,6 +14,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,js,figma,php,mysql,java,laravel,python" alt="Tech Stack Icons" />
   </a>
 
+  <img src="https://media.giphy.com/media/QBd2kLB5qDmysEXre9/giphy.gif" alt="gif" width="40">
   <br><br>
+
+  
 
 </div>
