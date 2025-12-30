@@ -1,4 +1,4 @@
-<div align="display: flex; align-items: center; justify-content: center; flex-direction: row;">
+<div align="center";>
 
   <h1>Fadhil Swarigading</h1>
   <h3>Junior Web Developer</h3>
