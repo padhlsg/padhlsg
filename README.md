@@ -1,4 +1,4 @@
-<div align="center";>
+<div align="left";>
 
   <h1>Fadhil Swarigading</h1>
   <h3>Junior Web Developer</h3>
