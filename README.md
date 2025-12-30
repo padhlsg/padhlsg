@@ -1,3 +1,5 @@
+
+
 <div align="left";>
 
   <h1>Fadhil Swarigading</h1>
@@ -19,4 +21,6 @@
   
 
 </div>
+<div align="right";>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM1eDBwdWJuOTgybXlpYXAxdndrNGxlcGVqdGtoZmM4M2g3bmEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BKw04PbLlfOl2tzrwO/giphy.gif" alt="gif" width="40">
+</div>
