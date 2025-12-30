@@ -14,9 +14,9 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,js,figma,php,mysql,java,laravel,python" alt="Tech Stack Icons" />
   </a>
 
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM1eDBwdWJuOTgybXlpYXAxdndrNGxlcGVqdGtoZmM4M2g3bmEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BKw04PbLlfOl2tzrwO/giphy.gif" alt="gif" width="40">
   <br><br>
 
   
 
 </div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM1eDBwdWJuOTgybXlpYXAxdndrNGxlcGVqdGtoZmM4M2g3bmEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BKw04PbLlfOl2tzrwO/giphy.gif" alt="gif" width="40">
