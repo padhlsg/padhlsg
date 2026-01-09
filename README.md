@@ -1,5 +1,5 @@
 <img
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanM1eDBwdWJuOTgybXlpYXAxdndrNGxlcGVqdGtoZmM4M2g3bmEyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BKw04PbLlfOl2tzrwO/giphy.gif"
+  src="https://tenor.com/id/view/willem-dafoe-drippy-drip-dancing-gif-24730350"
   width="220"
   align="right"
 />
