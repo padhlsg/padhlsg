@@ -1,5 +1,5 @@
 <img
-  src="https://media.tenor.com/3XnRk0V1C2cAAAAC/willem-dafoe-dancing.gif"
+  src="willem-dafoe.gif"
   width="220"
   align="right"
 />
